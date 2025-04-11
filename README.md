@@ -1,6 +1,3 @@
-Here's a polished `README.md` for your **ChatAgent using RAG (Retrieval-Augmented Generation)** built with **LangChain**, **Ollama**, **ChromaDB**, **pandas**, and the lightweight **SmolLM**:
-
----
 
 # 🤖 ChatAgent: RAG-Powered Conversational Agent with SmolLM
 
@@ -118,28 +115,4 @@ SmolLM is optimized for:
 - **Resource efficiency** – runs on laptops and minimal setups
 - **Offline usage** – no cloud API dependency
 
----
 
-## 📌 To-Do
-
-- [ ] Add support for multi-file ingestion  
-- [ ] Web UI with Gradio or Streamlit  
-- [ ] File upload interface  
-- [ ] Memory/Chat history support  
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first.  
-Suggestions, bug reports, and ideas are highly appreciated.
-
----
-
-## 🪪 License
-
-This project is open-source under the MIT License.
-
----
-
-Want me to include instructions for a web UI (like Streamlit) or Docker support next?
